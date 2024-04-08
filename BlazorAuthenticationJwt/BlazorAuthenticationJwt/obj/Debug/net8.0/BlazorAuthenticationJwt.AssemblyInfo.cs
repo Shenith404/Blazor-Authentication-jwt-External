@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorAuthenticationJwt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5db0ce8baf110ef2de94828b6dda7c701240daf8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2813fc3eeae6da3fdf324b9f1f5756edf84055c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorAuthenticationJwt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorAuthenticationJwt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

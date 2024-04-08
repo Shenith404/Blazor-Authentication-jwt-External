@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "E:\\University\\GitHub\\Blazor-Authentication-jwt-External\\BlazorAuthenticationJwt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DEE0CB9-9C34-4684-A216-390EE5220478}|BlazorAuthenticationJwt\\BlazorAuthenticationJwt.csproj|e:\\university\\github\\blazor-authentication-jwt-external\\blazorauthenticationjwt\\blazorauthenticationjwt\\auth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DEE0CB9-9C34-4684-A216-390EE5220478}|BlazorAuthenticationJwt\\BlazorAuthenticationJwt.csproj|solutionrelative:blazorauthenticationjwt\\auth\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DEE0CB9-9C34-4684-A216-390EE5220478}|BlazorAuthenticationJwt\\BlazorAuthenticationJwt.csproj|e:\\university\\github\\blazor-authentication-jwt-external\\blazorauthenticationjwt\\blazorauthenticationjwt\\auth\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE0CB9-9C34-4684-A216-390EE5220478}|BlazorAuthenticationJwt\\BlazorAuthenticationJwt.csproj|solutionrelative:blazorauthenticationjwt\\auth\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE0CB9-9C34-4684-A216-390EE5220478}|BlazorAuthenticationJwt\\BlazorAuthenticationJwt.csproj|e:\\university\\github\\blazor-authentication-jwt-external\\blazorauthenticationjwt\\blazorauthenticationjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE0CB9-9C34-4684-A216-390EE5220478}|BlazorAuthenticationJwt\\BlazorAuthenticationJwt.csproj|solutionrelative:blazorauthenticationjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "E:\\University\\GitHub\\Blazor-Authentication-jwt-External\\BlazorAuthenticationJwt\\BlazorAuthenticationJwt\\Auth\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "BlazorAuthenticationJwt\\Auth\\Services\\AuthService.cs",
-              "ToolTip": "E:\\University\\GitHub\\Blazor-Authentication-jwt-External\\BlazorAuthenticationJwt\\BlazorAuthenticationJwt\\Auth\\Services\\AuthService.cs",
-              "RelativeToolTip": "BlazorAuthenticationJwt\\Auth\\Services\\AuthService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBUAAAANAAAA",
+              "Title": "CustomAuthenticationStateProvider.cs",
+              "DocumentMoniker": "E:\\University\\GitHub\\Blazor-Authentication-jwt-External\\BlazorAuthenticationJwt\\BlazorAuthenticationJwt\\Auth\\CustomAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "BlazorAuthenticationJwt\\Auth\\CustomAuthenticationStateProvider.cs",
+              "ToolTip": "E:\\University\\GitHub\\Blazor-Authentication-jwt-External\\BlazorAuthenticationJwt\\BlazorAuthenticationJwt\\Auth\\CustomAuthenticationStateProvider.cs",
+              "RelativeToolTip": "BlazorAuthenticationJwt\\Auth\\CustomAuthenticationStateProvider.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T13:44:54.161Z",
+              "WhenOpened": "2024-04-08T10:37:19.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\University\\GitHub\\Blazor-Authentication-jwt-External\\BlazorAuthenticationJwt\\BlazorAuthenticationJwt\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorAuthenticationJwt\\Program.cs",
+              "ToolTip": "E:\\University\\GitHub\\Blazor-Authentication-jwt-External\\BlazorAuthenticationJwt\\BlazorAuthenticationJwt\\Program.cs",
+              "RelativeToolTip": "BlazorAuthenticationJwt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:36:40.775Z",
               "EditorCaption": ""
             }
           ]

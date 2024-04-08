@@ -1,6 +1,7 @@
 ﻿@page "/counter"
+@using BlazorAuthenticationJwt.Auth.Services
 @rendermode InteractiveServer
-
+@inject AuthService AuthService
 <PageTitle>Counter</PageTitle>
 
 <h1>Counter</h1>
@@ -8,12 +9,21 @@
 <p role="status">Current count: @currentCount</p>
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<p>@message</p>
 
 @code {
     private int currentCount = 0;
+    private string message;
 
     private void IncrementCount()
     {
         currentCount++;
+
+
+    }
+    protected override async Task OnInitializedAsync()
+    {
+        message = await AuthService.Test();
+
     }
 }
